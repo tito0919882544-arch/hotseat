@@ -1,5 +1,5 @@
 Flask
 Flask-SocketIO
 gunicorn
-eventlet
+gevent
 psycopg[binary]
