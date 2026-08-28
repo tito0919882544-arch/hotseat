@@ -2,4 +2,4 @@ Flask
 Flask-SocketIO
 gunicorn
 gevent
-"gunicorn", section, uri-websocket
+gevent-websocket
